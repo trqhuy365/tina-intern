@@ -1,0 +1,22 @@
+
+#nav {
+    margin-top: 0%;
+    padding: 30px;
+}
+
+
+.subnav {
+    padding: 0%;
+    list-style-type: none;
+    text-align: left;
+    float: left;
+    padding-right: 5%;
+  
+
+}
+
+.subnav-text{
+    color: white;
+    text-decoration: none;
+    
+}
